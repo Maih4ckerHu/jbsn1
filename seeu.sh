@@ -48,16 +48,16 @@ then
 about
 elif [[ "$sit" = "4" || "$sit" = "four" ]];
 then
-xdg-open https://noobhacktube.com 2>/dev/null
+xdg-open https://www.jbsnhacking.simdif.com 2>/dev/null
 elif [[ "$sit" = "5" || "$sit" = "five" ]];
 then
-xdg-open https://noob-hackers.github.io/noobspage 2>/dev/null
+xdg-open https://jbsnhacking.simdif.com 2>/dev/null
 elif [[ "$sit" = "6" || "$sit" = "six" ]];
 then
-xdg-open https://bit.ly/nhytchannel > /dev/null 2>&1
+xdg-open https://jbsnhacking.simdif.com > /dev/null 2>&1
 elif [[ "$sit" = "7" || "$sit" = "seven" ]];
 then
-xdg-open https://tinyurl.com/whatschat > /dev/null 2>&1
+xdg-open https://wa.me/7070859175 > /dev/null 2>&1
 elif [[ "$sit" = "8" || "$sit" = "eight" ]];
 then
 cd $HOME/seeu
