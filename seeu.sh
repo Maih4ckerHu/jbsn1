@@ -13,7 +13,7 @@ clear
 echo -e '\e[91m
 \e[92m               ,-""-.
 \e[92m              / ,--. \
-\e[92m             | ( \e[91m()\e[92m ) |  \e[93m┌─┐┌─┐┌─┐ \e[92m┬ ┬
+\e[92m             | ( \e[91m()\e[92m ) |  \e[93m┌─┐┌─┐┌─┐🎃🎃🎃\e[92m┬ ┬
 \e[92m              \ `--` /   \e[93m└─┐├┤ ├┤  \e[92m│ │
 \e[92m               `-..-`    \e[93m└─┘└─┘└─┘ \e[92m└─┘'
 echo
@@ -42,7 +42,7 @@ then
 pagemenu
 elif [[ "$sit" = "2" || "$sit" = "two" ]];
 then
-echo -e  "                    SOON I WILL UPDATE"
+echo -e  "                    Pahle itna sikh uske baad update "
 elif [[ "$sit" = "3" || "$sit" = "three" ]];
 then
 about
@@ -57,7 +57,7 @@ then
 xdg-open https://jbsnhacking.simdif.com > /dev/null 2>&1
 elif [[ "$sit" = "7" || "$sit" = "seven" ]];
 then
-xdg-open https://wa.me/7070859175 > /dev/null 2>&1
+xdg-open https://wa.me/+917070859175 > /dev/null 2>&1
 elif [[ "$sit" = "8" || "$sit" = "eight" ]];
 then
 cd $HOME/seeu
