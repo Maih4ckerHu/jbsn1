@@ -17,10 +17,11 @@ echo -e '\e[91m
 \e[92m              \ `--` /   \e[93m└─┐├┤ ├┤  \e[92m│ │
 \e[92m               `-..-`    \e[93m└─┘└─┘└─┘ \e[92m└─┘'
 echo
-echo -e '            \e[92m::: Tool By Noob Hackers :::\e[0m'
-echo -e '          \e[92m::: github.com/noob-hackers :::\e[0m'
+echo -e '            \e[92m::: Tool By  Mr.H4cker :::\e[0m'
+echo -e '          \e[92m::: github.com/Maih4ckerHu :::\e[0m'
+echo -e '.          \e[92m:::  Akele Hi kafi hu  :::\e[0m'
 echo -e "\e[92m"
-echo -e '                \e[100m CaMera HackiNg Tool\e[0m'
+echo -e '                \e[100m Girls ,😘 camera 👸 HackiNg \e[0m'
 echo
 }
 menu() {
@@ -65,7 +66,7 @@ elif [[ "$sit" = "0" || "$sit" = "zero" ]];
 then
 exit 1
 else
-echo -e "\e[93m             You Typed It Wrong broooo.....\e[0m"
+echo -e "\e[93m             Lauda thik se daal.....\e[0m"
 exit 1
 fi
 }
@@ -516,7 +517,7 @@ echo -e '\e[96m     [\e[92m+\e[96m]--------------'
 echo -e '\e[96m                      |'
 echo -e '\e[92m  THIS TOOLS IS ONLY FOR EDUCATIONAL PURPOSE SO'
 echo -e '\e[92m IM NOT RESPONSIBLE IF YOU DO ANY ILLEGAL THINGS'
-echo -e '\e[92m   THANKS FOR READING SUBSCRIBE {NOOB HACKERS}'
+echo -e '\e[92m   THANKS FOR READING And Hack Girls camera  {Mr.H4cker}'
 echo -e '\e[92m           HAVE A GOOD DAY BUDDIE :)'
 echo -e '\e[96m                      |'
 echo -e '\e[96m                      |'
