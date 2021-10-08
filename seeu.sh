@@ -19,7 +19,7 @@ echo -e '\e[91m
 echo
 echo -e '            \e[92m::: Tool By  Mr.H4cker :::\e[0m'
 echo -e '          \e[92m::: github.com/Maih4ckerHu :::\e[0m'
-echo -e '.          \e[92m:::  Akele Hi kafi hu  :::\e[0m'
+echo -e '.          \e[92m:::  Akele Hi kafi hu 😏😏 P.R 😘😘  :::\e[0m'
 echo -e "\e[92m"
 echo -e '                \e[100m Girls ,😘 camera 👸 HackiNg \e[0m'
 echo
