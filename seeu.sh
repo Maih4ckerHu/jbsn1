@@ -527,7 +527,7 @@ sleep 2.0
 cd $HOME/seeu
 clear
 bash seeu.sh
-}
+
 
 banner
 menu
